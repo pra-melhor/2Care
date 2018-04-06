@@ -4,10 +4,10 @@ Descrição dos requisitos
 pessoais.
 
 1.1 Cadastro de doador com dados válidos 
-Dado que estou na tela de cadastro de doador 
-Quando preencher os campos com dados válidos
-E clicar no botão para gravar 
-Então vou ver mensagem de sucesso 
+* Dado que estou na tela de cadastro de doador 
+* Quando preencher os campos com dados válidos
+* E clicar no botão para gravar 
+* Então vou ver mensagem de sucesso 
 
 2. Requisitar cadastro entidade
  Este requisito permite que o representante da entidade realize o cadastro com os
